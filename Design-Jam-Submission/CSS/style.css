@@ -1,0 +1,129 @@
+
+/* navigation bar */
+
+.navibar {
+    padding: 30px 15px;
+    font-size: 1.5rem;
+}
+
+.navbar-brand {
+    font-family: 'Courgette', cursive;
+    font-size: 2.5rem;
+}
+
+
+/* title section */
+
+#title {
+    background-color: #00b8a9;
+}
+
+
+.title-page {
+    padding: 7% 15%;
+}
+
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 5rem;
+    color: #fff;
+    text-align: left;
+}
+
+
+.mic-image {
+    width: 450px;
+}
+
+.rjb-title {
+    padding-left: 110px;
+}
+
+.rjb-titleimg {
+    width: 250px;
+    padding-top: 30px;
+}
+
+
+/* about section */
+
+
+#about-him {
+    padding: 7% 0%;
+    text-align: center;
+}
+
+#studies,#personal {
+    background-color: #00b8a9;
+    margin-top: 200px;
+    padding: 50px;
+    color: #fff;
+}
+
+#studies h2 {
+    color: #000;
+}
+
+#personal h2 {
+    color: #000;
+}
+
+#about,#radio {
+    padding: 50px;
+}
+
+#social {
+    background-color: #00b8a9;
+    text-align: center;
+    padding: 30px;
+    color: #fff;
+}
+
+#social h2 {
+    color: #000;
+}
+
+h2 {
+    font-family: 'Rokkitt', serif;
+    margin: 50px auto;
+    font-size: 3.5rem;
+    color: #00adb5;
+}
+
+p{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 2rem;
+    margin: 40px auto;
+    line-height: 2;
+}
+
+/* awards section */
+
+#awards {
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.awards1 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.awards-yr{
+    margin-top: 5px;
+    font-size: 1.3rem;
+}
+
+
+/* footer section */
+
+.icons {
+    padding: 30px;
+
+}
+
+.fab-icon {
+    margin: 1% 1%;
+    color: #fff;
+}
